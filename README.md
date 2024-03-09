@@ -17,3 +17,7 @@ pip3 install bottle
 pip3 install openai
 
 openai api key
+
+### Warning
+
+Requesting a large number of images can start to cost a reasonable amount of money.  For building, testing and then recording the class required approx. $10.
